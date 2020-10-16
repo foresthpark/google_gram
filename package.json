@@ -1,0 +1,21 @@
+{
+  "name": "firegram",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "antd": "^4.5.1",
+    "clarifai": "^2.9.1",
+    "firebase": "^7.17.1",
+    "framer-motion": "^2.3.0",
+    "next": "9.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
