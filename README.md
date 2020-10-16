@@ -15,7 +15,7 @@
 - Check out the demo here: https://forest-firegram.web.app/  
 
 <div align="center">
-<img src="https://github.com/foresthpark/firebase_gallery/blob/master/firegram_demo.gif" align="center" style="width: 100%" />
+<img src="https://github.com/foresthpark/google_gram/blob/main/firegram_demo.gif" align="center" style="width: 100%" />
 </div>
 
 ## ➽ Languages and Tools  
