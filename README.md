@@ -1,6 +1,6 @@
 ## ➽ What is this?
 
-- A simple gallery app that uses Firebase hosting and Firestore snapshots for instant updates
+- A simple gallery app using Firebase hosting and Firebase snapshots
 
 <br/>
 
