@@ -1,3 +1,7 @@
+## ➽ What is this?
+
+- A simple gallery app that uses Firebase hosting and Firestore snapshots for instant updates
+
 ## ➽ Why did I build this?  
 
 - Practicing the Next JS framework  
