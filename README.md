@@ -2,6 +2,8 @@
 
 - A simple gallery app that uses Firebase hosting and Firestore snapshots for instant updates
 
+<br/>
+
 ## ➽ Why did I build this?  
 
 - Practicing the Next JS framework  
@@ -15,12 +17,16 @@
 
 - Learning how to make custom hooks  
 
+<br/>
+
 ## ➽ Demo  
 - Check out the demo here: https://forest-firegram.web.app/  
 
 <div align="center">
 <img src="https://github.com/foresthpark/google_gram/blob/main/firegram_demo.gif" align="center" style="width: 100%" />
 </div>
+
+<br/>
 
 ## ➽ Languages and Tools  
 <div align="center">  
@@ -33,6 +39,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
 </div>  
 <br/>  
+
+<br/>
 
 ## ➽ How do you use this? Getting started guide (Installation)
 - Fork this repo: https://github.com/foresthpark/firebase_gallery  
